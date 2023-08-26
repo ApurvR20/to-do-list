@@ -1,0 +1,3 @@
+-> get list name from user 
+-> add list name to storage
+-> since storage is updated, update all prev list names
