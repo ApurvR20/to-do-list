@@ -1,3 +1,9 @@
 -> get list name from user 
--> add list name to storage
--> since storage is updated, update all prev list names
+-> add list names to lists
+-> update UI for list names
+    -> by default all tasks should aslo be connected to corresponding lists
+-> store name to storage
+-> switch mode to prod after dev
+
+
+-> optimize by converting listData from array to object
